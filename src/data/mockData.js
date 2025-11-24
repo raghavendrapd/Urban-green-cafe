@@ -1,23 +1,5 @@
 export const menuItems = [
     {
-        id: 1,
-        name: "Avocado Toast",
-        category: "Specials",
-        price: "₹450",
-        description: "Sourdough bread, smashed avocado, poached egg, chili flakes.",
-        image: "https://images.unsplash.com/photo-1588137372308-15f75323ca8d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        calories: "450 kcal"
-    },
-    {
-        id: 2,
-        name: "Matcha Latte",
-        category: "Drinks",
-        price: "₹250",
-        description: "Premium ceremonial grade matcha with oat milk.",
-        image: "https://images.unsplash.com/photo-1515823664972-6d90e8ed9609?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        calories: "120 kcal"
-    },
-    {
         id: 3,
         name: "Berry Smoothie Bowl",
         category: "Specials",
@@ -45,15 +27,6 @@ export const menuItems = [
         calories: "260 kcal"
     },
     {
-        id: 6,
-        name: "Quinoa Salad",
-        category: "Specials",
-        price: "₹350",
-        description: "Quinoa, cherry tomatoes, cucumber, feta, lemon dressing.",
-        image: "https://images.unsplash.com/photo-1505253716371-b651add9a13e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        calories: "320 kcal"
-    },
-    {
         id: 7,
         name: "Iced Americano",
         category: "Drinks",
@@ -61,15 +34,6 @@ export const menuItems = [
         description: "Espresso over ice and water.",
         image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
         calories: "5 kcal"
-    },
-    {
-        id: 8,
-        name: "Blueberry Muffin",
-        category: "Bakery",
-        price: "₹150",
-        description: "Bursting with fresh blueberries and a crumble top.",
-        image: "https://images.unsplash.com/photo-1593915298855-31a63d71d319?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        calories: "350 kcal"
     }
 ];
 
