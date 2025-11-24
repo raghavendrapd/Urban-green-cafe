@@ -42,6 +42,7 @@ const Menu = () => {
                                 <img
                                     src={item.image}
                                     alt={item.name}
+                                    referrerPolicy="no-referrer"
                                     className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
                                 />
                                 <button className="absolute top-3 right-3 p-2 bg-white/80 backdrop-blur-sm rounded-full text-gray-400 hover:text-red-500 transition-colors">
